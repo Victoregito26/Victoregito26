@@ -21,6 +21,7 @@ estudos em projetos práticos e, futuramente, atuar profissionalmente na área.
 
 ### 📚 Conhecimentos atuais
 
+- Python
 - HTML
 - Git
 - GitHub
@@ -41,7 +42,7 @@ estudos em projetos práticos e, futuramente, atuar profissionalmente na área.
 - 💼 LinkedIn: [Meu LinkedIn](www.linkedin.com/in/victor-hugo-egito-886b85440
 
 )
-- 📧 E-mail: [meuemail@email.com](mailto:victoregito.hugo26@gmail.com)
+- 📧 E-mail: [meuemail@victoregito.hugo26@gmail.com](mailto:victoregito.hugo26@gmail.com)
 
 
 
