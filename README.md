@@ -1,16 +1,13 @@
-## Hi there 👋
+# Bem-vindo(a)!
 
-<!--
-**Victoregito26/Victoregito26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo(a) 
 
-Here are some ideas to get you started:
+Muito prazer, me chamo Victor Hugo, estou cursando atualmente o curso técnico em desenvolvimento de sistema no SENAI,
+foco futuramente em especialização em Front e Back-End💻💻.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😁Gosto de ambientes colaborativos que incentivem o desenvolvimento profissional e a carreira;
+- 🖥️Conhecimento básico de informatica/Excel/Word
+- 👍👎deixe sua contribuição e feedback!
+- 📫Entre em contato via [E-mail](Mailto:victoregito.hugo26@gmail.com)
+
+
