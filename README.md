@@ -41,7 +41,7 @@ estudos em projetos práticos e, futuramente, atuar profissionalmente na área.
 
 - 💼 LinkedIn: [www.linkedin.com/in/victor-hugo-egito-886b85440
 ](LINK)
-- 📧 E-mail: [meuemail@victoregito.hugo26@gmail.com](mailto:victoregito.hugo26@gmail.com)
+- 📧 E-mail: [victoregito.hugo26@gmail.com](mailto:victoregito.hugo26@gmail.com)
 
 
 
